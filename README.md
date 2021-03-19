@@ -1,3 +1,5 @@
+**Once I have sime time I will modify BooksDaoImpl to be compliant with tryWithResources principle**
+
 As the IDE I used IntelliJ Idea and I highly recomend this environment. There is output in both Main.java and as a tests.
 
 
