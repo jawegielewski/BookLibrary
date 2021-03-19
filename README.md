@@ -1,4 +1,4 @@
-**Once I have sime time I will modify BooksDaoImpl:**
+**Once I have sime time I will modify BookDaoImpl:**
 - **to be compliant with tryWithResources principle,**
 - **to use "select" and "update" operations with binding parameters not concatenation**
 <br />
